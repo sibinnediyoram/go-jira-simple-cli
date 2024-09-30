@@ -1,4 +1,4 @@
-# go-simple-cli
+# go-jira-simple-cli
 A beginner's experiment to start my Go learning Journey
 
 How to run the application:
